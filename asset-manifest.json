@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/harishhn1/React-in-github-demo/static/css/main.cd64a610.chunk.css",
+    "main.js": "/harishhn1/React-in-github-demo/static/js/main.39e8c906.chunk.js",
+    "main.js.map": "/harishhn1/React-in-github-demo/static/js/main.39e8c906.chunk.js.map",
+    "runtime-main.js": "/harishhn1/React-in-github-demo/static/js/runtime-main.da3ca08b.js",
+    "runtime-main.js.map": "/harishhn1/React-in-github-demo/static/js/runtime-main.da3ca08b.js.map",
+    "static/js/2.e65bc642.chunk.js": "/harishhn1/React-in-github-demo/static/js/2.e65bc642.chunk.js",
+    "static/js/2.e65bc642.chunk.js.map": "/harishhn1/React-in-github-demo/static/js/2.e65bc642.chunk.js.map",
+    "static/js/3.59072106.chunk.js": "/harishhn1/React-in-github-demo/static/js/3.59072106.chunk.js",
+    "static/js/3.59072106.chunk.js.map": "/harishhn1/React-in-github-demo/static/js/3.59072106.chunk.js.map",
+    "index.html": "/harishhn1/React-in-github-demo/index.html",
+    "static/css/main.cd64a610.chunk.css.map": "/harishhn1/React-in-github-demo/static/css/main.cd64a610.chunk.css.map",
+    "static/js/2.e65bc642.chunk.js.LICENSE.txt": "/harishhn1/React-in-github-demo/static/js/2.e65bc642.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/harishhn1/React-in-github-demo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da3ca08b.js",
+    "static/js/2.e65bc642.chunk.js",
+    "static/css/main.cd64a610.chunk.css",
+    "static/js/main.39e8c906.chunk.js"
+  ]
+}
